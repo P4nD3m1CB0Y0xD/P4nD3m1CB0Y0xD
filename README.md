@@ -12,7 +12,7 @@
 - 👋 Hi, I’m Gustavo
 - I’m interested in Reverse Engineering, Malware Analysis, Cyber Threat Intelligence.
 
-<div id="body" align="center">
+<div id="body">
 
 ![Þ4ŊD³m¹©BøY's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4nD3m1CB0Y0xD&show_icons=true&theme=radical&count_private=true)
   

@@ -1,13 +1,5 @@
 ### Hello, guys 👋
 
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://twitter.com/P4nd3m1cb0y">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-</div>
-
 - I'm just a nerd who loves to learn every single thing.
 - I’m interested in reverse engineering, malware analysis, malware development, cyber threat intelligence, threat hunting, and some other stuff that is not related to security.
 
